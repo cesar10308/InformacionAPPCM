@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InformacionAPPCM</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="direccion">Dirección</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="numero">Número</string>
+    <string name="enviar">Enviar</string>
+</resources>
